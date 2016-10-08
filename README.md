@@ -1,4 +1,4 @@
-Django wxsite practice
+Django weixin 
 
 requirements
 
